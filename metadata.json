@@ -1,0 +1,9 @@
+{
+  "name": "LifeLine Protocol",
+  "description": "A safety assurance application featuring an automated 'Dead Man\\'s Switch', emergency SOS, and location tracking. Designed as a mobile-first experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
